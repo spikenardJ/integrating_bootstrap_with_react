@@ -105,7 +105,7 @@ function ProductsPage() {
                         width="100%"
                         border="2px solid #ddd"
                     />
-                    <p><small>iPhone: $800.00</small></p>
+                    <p><small>Hover Board: $200.00</small></p>
                 </Col>
                 <Col xs={8} md={4}>
                 <Image 
@@ -115,7 +115,7 @@ function ProductsPage() {
                         width="100%"
                         border="2px solid #ddd"
                     />
-                    <p><small>iPhone: $800.00</small></p>
+                    <p><small>Robot: $1200.00</small></p>
                 </Col>
                 <Col xs={8} md={4}>
                 <Image 
@@ -125,7 +125,7 @@ function ProductsPage() {
                         width="100%"
                         border="2px solid #ddd"
                     />
-                    <p><small>iPhone: $800.00</small></p>
+                    <p><small>Drone: $400.00</small></p>
                 </Col>
             </Row>
         </Container>
